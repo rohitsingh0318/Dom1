@@ -7,7 +7,7 @@ project-1
 
 ✔️ *Simple Basic nature effects use* 
 
-✔️ Easy-to-use 
+✔️ Easy-to-use Card hover Effect and JS use DOM  
 
 ✔️ Fully responsive design
 
@@ -23,4 +23,4 @@ JavaScript (DOM Manipulation) for functionality
 
 
 🚀 Live Demo
-🔗 https://rohitsingh0318.github.io/Dom1/
+🔗 
